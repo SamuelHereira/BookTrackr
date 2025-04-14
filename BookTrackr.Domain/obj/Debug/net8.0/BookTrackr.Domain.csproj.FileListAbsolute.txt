@@ -1,0 +1,11 @@
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Domain\bin\Debug\net8.0\BookTrackr.Domain.deps.json
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Domain\bin\Debug\net8.0\BookTrackr.Domain.dll
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Domain\bin\Debug\net8.0\BookTrackr.Domain.pdb
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Domain\obj\Debug\net8.0\BookTrackr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Domain\obj\Debug\net8.0\BookTrackr.Domain.AssemblyInfoInputs.cache
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Domain\obj\Debug\net8.0\BookTrackr.Domain.AssemblyInfo.cs
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Domain\obj\Debug\net8.0\BookTrackr.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Domain\obj\Debug\net8.0\BookTrackr.Domain.dll
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Domain\obj\Debug\net8.0\refint\BookTrackr.Domain.dll
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Domain\obj\Debug\net8.0\BookTrackr.Domain.pdb
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Domain\obj\Debug\net8.0\ref\BookTrackr.Domain.dll

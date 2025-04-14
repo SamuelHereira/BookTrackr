@@ -1,0 +1,13 @@
+use BookTrackr
+
+GO
+CREATE TABLE Users (
+    Id INT IDENTITY PRIMARY KEY,
+    Username VARCHAR(50) NOT NULL,
+    Name VARCHAR(100) NOT NULL,
+    Email VARCHAR(100) NOT NULL,
+    PasswordHash TEXT NOT NULL,
+    CreatedAt DATETIME DEFAULT GETDATE(),
+    UpdatedAt DATETIME DEFAULT GETDATE(),
+    Status INT DEFAULT 1,
+);

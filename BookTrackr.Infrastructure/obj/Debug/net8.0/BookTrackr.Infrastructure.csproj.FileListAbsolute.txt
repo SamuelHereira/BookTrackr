@@ -1,0 +1,15 @@
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Infrastructure\bin\Debug\net8.0\BookTrackr.Infrastructure.deps.json
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Infrastructure\bin\Debug\net8.0\BookTrackr.Infrastructure.dll
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Infrastructure\bin\Debug\net8.0\BookTrackr.Infrastructure.pdb
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Infrastructure\bin\Debug\net8.0\BookTrackr.Domain.dll
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Infrastructure\bin\Debug\net8.0\BookTrackr.Domain.pdb
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Infrastructure\obj\Debug\net8.0\BookTrackr.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Infrastructure\obj\Debug\net8.0\BookTrackr.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Infrastructure\obj\Debug\net8.0\BookTrackr.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Infrastructure\obj\Debug\net8.0\BookTrackr.Infrastructure.AssemblyInfo.cs
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Infrastructure\obj\Debug\net8.0\BookTrackr.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Infrastructure\obj\Debug\net8.0\BookTrac.9E954081.Up2Date
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Infrastructure\obj\Debug\net8.0\BookTrackr.Infrastructure.dll
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Infrastructure\obj\Debug\net8.0\refint\BookTrackr.Infrastructure.dll
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Infrastructure\obj\Debug\net8.0\BookTrackr.Infrastructure.pdb
+C:\Users\DETPC\Documents\BookTrackr\BookTrackr.Infrastructure\obj\Debug\net8.0\ref\BookTrackr.Infrastructure.dll

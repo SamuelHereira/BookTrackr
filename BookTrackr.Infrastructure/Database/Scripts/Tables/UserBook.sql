@@ -1,0 +1,13 @@
+CREATE TABLE UserBooks (
+    Id INT IDENTITY PRIMARY KEY,
+    UserId INT NOT NULL,
+    BookId INT NOT NULL,
+    Rating INT,
+    Review TEXT,
+    CreatedAt DATETIME DEFAULT GETDATE(),
+    UpdatedAt DATETIME DEFAULT GETDATE(),
+    Status INT DEFAULT 1,
+);
+
+ALTER TABLE UserBooks ADD CONSTRAINT FK_UserBooks_Users FOREIGN KEY (UserId) REFERENCES Users(Id);
+ALTER TABLE UserBooks ADD CONSTRAINT FK_UserBooks_Books FOREIGN KEY (BookId) REFERENCES Books(Id);
